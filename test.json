@@ -1,9 +1,4 @@
 {
     "url": "https://raw.githubusercontent.com/ashfaqulhaq/swagger/main/test.yaml",
-    "urls": [
-        {
-            "url": "https://raw.githubusercontent.com/ashfaqulhaq/swagger/main/test.yaml",
-            "name": "HACKED"
-        }
-    ]
+    "name": "HACKED"
 }     
